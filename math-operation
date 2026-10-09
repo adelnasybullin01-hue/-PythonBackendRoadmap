@@ -1,0 +1,19 @@
+result = 5 + 10 
+result2 = 13 - 11
+result3 = 5 * 5
+result4 = 5 / 2
+result5 = 5 // 2
+result6 = 5 % 2
+
+result7 = 5**2
+
+# print(result7)
+
+# num = -111
+# print(abs(num))
+
+num1 = int(input("Write number #1: "))
+num2 = int(input("Write number #2: "))
+num3 = (num1 + num2)
+print("Your numbers in the addition: " ,num3)
+
